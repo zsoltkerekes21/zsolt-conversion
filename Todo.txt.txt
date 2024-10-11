@@ -1,3 +1,4 @@
 Conversions needed:
 - Dollars to cents
 - Hours to minutes
+- Gallons to liters
