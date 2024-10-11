@@ -1,0 +1,3 @@
+Conversions needed:
+- Dollars to cents
+- Hours to minutes
